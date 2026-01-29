@@ -32,3 +32,4 @@ If you use them, please cite this repository!
 | `ru_RU`  | [denis](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ru_RU-denis.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ru_RU/denis/0000000001.mp3) | 2023-05-25 |
 | `ru_RU`  | [dmitri](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ru_RU-dmitri.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ru_RU/dmitri/0000000001.mp3) | 2023-08-03 |
 | `sk_SK`  | [lili](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/sk_SK-lili.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/sk_SK/lili/0000000001.mp3) | 2023-08-25 |
+| `zh_CN`  | [chaowen](https://github.com/OHF-Voice/voice-datasets/releases/download/v1.0.0/zh_CN-chaowen.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/zh_CN/chaowen/0000000001.mp3) | 2026-01-29 |
